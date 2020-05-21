@@ -7,8 +7,8 @@
             "image": "httpd:2.4", 
             "portMappings": [
                 {
-                    "containerPort": 8080, 
-                    "hostPort": 8080, 
+                    "containerPort": 4444, 
+                    "hostPort": 4444, 
                     "protocol": "tcp"
                 }
             ], 
